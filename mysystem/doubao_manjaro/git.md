@@ -38,3 +38,6 @@ $ git remote add origin git@github.com/mind1969/studynote.git
 //上传文件到github上
 git push origin master
 ```
+
+
+## 5.Git操作教程
